@@ -1,0 +1,12 @@
+{
+    "en": {
+        "P_S001": "Successfully Product Create!",
+        "P_S002": "Successfully All Product Fetched!",
+        "P_S003": "Successfully Current Product Fetched!",
+        "P_S004": "Successfully Product Updated!",
+        "P_S005": "Successfully Product Deleted!",
+        "P_E001": "Required Parameters!",
+        "P_E002": "Product Not Found!",
+        "P_E003": "Invalid OTP!"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "en": {
+        "U_S001": "successfully user Created",
+        "U_S002": "successfully user profile fetched",
+        "U_S003": "successfully all users fetched",
+        "U_S004": "successfully user Updated",
+        "U_S005": "successfully user Deleted",
+        "U_E001": "Required parameters missing",
+        "U_E002": "Email is already exists!",
+        "U_E003": "Username is already exists!",
+        "U_E004": "PhoneNumber is already exists!",
+        "U_E005": "User not found"
+    }
+}

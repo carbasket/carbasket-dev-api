@@ -1,0 +1,34 @@
+{
+  "name": "zulukk-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zulukkblr/zulukk-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zulukkblr/zulukk-backend/issues"
+  },
+  "homepage": "https://github.com/zulukkblr/zulukk-backend#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1290.0",
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "mongoose-aggregate-paginate-v2": "^1.0.6",
+    "mongoose-paginate-v2": "^1.7.1",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
