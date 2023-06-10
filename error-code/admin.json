@@ -2,6 +2,8 @@
     "en": {
         "A_S001": "Successfully Admin Registered",
         "A_S002": "Successfully Admin Login",
-        "A_S003": "Successfully Product Seen"
+        "A_S003": "Successfully Product Seen",
+        "A_S004": "Successfully Product Update!",
+        "A_S005": "Successfully Product fetched"
     }
 }

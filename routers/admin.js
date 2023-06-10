@@ -16,4 +16,17 @@ adminRouter
     catchError(adminController.seenProductByadmin)
   );
 
+adminRouter
+  .route("/product/:productId")
+  .patch(
+    authorized.restrictTo("admin"),
+    catchError(adminController.teleCallerByAdmin)
+  );
+adminRouter
+  .route("/product")
+  .get(
+    authorized.restrictTo("admin"),
+    catchError(adminController.getTeleCallersWithPagination)
+  );
+
 module.exports = adminRouter;
